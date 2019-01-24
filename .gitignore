@@ -1,6 +1,6 @@
 rsconnect
 .Rhistory
-debugLiveBooker
+debug*
 .httr-oauth
 commit_sha1
 Makefile
